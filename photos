@@ -28,113 +28,58 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="photos">Photos</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#films">Films</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#realestate">Real Estate</a></li>
+                        <li class="nav-item"><a class="nav-link" href="films">Films</a></li>
+                        <li class="nav-item"><a class="nav-link" href="realestate">Real Estate</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
         
         
+        
         <!-- Projects-->
         <section class="projects-section bg-light" id="projects">
-            <div class="container px-4 px-lg-5">
+            <div class="container px-lg-5 px-lg-5">
                 <!-- Featured Project Row-->
-                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="new edit1-1.jpg" alt="cloud wave" /></div>
-                    <div class="col-xl-4 col-lg-5">
-                        <div class="featured-text text-center text-lg-left">
-                            <h4>Shoreline</h4>
-                            <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
+                <div class="grid-container">
+                    <div class="grid-item"><img src="new edit1-1.jpg" width="260" height="165" alt="cloud wave">
                         </div>
-                    </div>
-                </div>
-                <!-- Featured Project Row-->
-                <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="new edit1-1.jpg" alt="cloud wave" /></div>
-                    <div class="col-xl-4 col-lg-5">
-                        <div class="featured-text text-center text-lg-right">
-                            <h4>Shoreline</h4>
-                            <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
+                    <div class="grid-item"><img src="DSC04704-Edit.jpg" width="245" height="200" alt="dune">
                         </div>
-                    </div>
-                </div>
-                <!-- Project One Row-->
-                <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid" src="" alt="..." /></div>
-                    <div class="col-lg-6">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Misty</h4>
-                                    <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
-                                </div>
-                            </div>
+                    <div class="grid-item"><img src="untitled--2.jpg" width="176" height = "260" alt="mountain shack">
                         </div>
-                    </div>
-                </div>
-                <!-- Project Two Row-->
-                <div class="row gx-0 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-02.jpg" alt="..." /></div>
-                    <div class="col-lg-6 order-lg-first">
-                        <div class="bg-black text-center h-100 project">
-                            <div class="d-flex h-100">
-                                <div class="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 class="text-white">Mountains</h4>
-                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well!</p>
-                                </div>
-                            </div>
+                    <div class="grid-item"><img src="new edit-1-9.jpg" width="190" height="250" alt="forest cloud">
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+                    <div class="grid-item"><img src="DSC09493.jpg" width="255" height="195" alt="golden gate cloud">
+                        </div>
+                    <div class="grid-item"><img src="DSC07297-Edit-Edit.jpg" width="176" height="260" alt="striped mountain">
+                        </div>
+                    <div class="grid-item"><img src="DSC06942-Edit.jpg" width="220" height="265" alt="canyon road">
+                        </div>
+                    <div class="grid-item"><img src="DSC06363-Edit.jpg" width="180" height="265" alt="cactus">
+                        </div>
+                    <div class="grid-item"><img src="DSC05600-Edit.jpg" width="265" height="185" alt="blue/grey dunes">
+                        </div>
+                    <div class="grid-item"><img src="DSC01035-Edit.jpg" width="200" height="260" alt="white canyon">
+                        </div>
+                    <div class="grid-item"><img src="DSC04509-Edit.jpg" width="170" height="265" alt="circle cactus">
+                        </div>
+                    <div class="grid-item"><img src="DSC05201-Edit (1).png" width="190" height="270" alt="people standing">
+                        </div>
+                    <div class="grid-item"><img src="DJI_0540-Pano-Edit-Recovered1.jpg" width="185" height="265" alt="tree valley">
+                        </div>
+                    <div class="grid-item"><img src="cypress tunnel-.jpg" width="215" height="270" alt="cyprus tunnel">
+                        </div>
+                    <div class="grid-item"><img src="DSC06398-Edit.jpg" width="210" height="260" alt="cactus">
+                        </div>
+                    
+                  </div>
+                
+                
+                
         
                 
-        <!-- Signup-->
-        <section class="signup-section" id="signup">
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-md-10 col-lg-8 mx-auto text-center">
-                        <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-                        <h2 class="text-white mb-5">Subscribe to receive updates!</h2>
-                        <!-- * * * * * * * * * * * * * * *-->
-                        <!-- * * SB Forms Contact Form * *-->
-                        <!-- * * * * * * * * * * * * * * *-->
-                        <!-- This form is pre-integrated with SB Forms.-->
-                        <!-- To make this form functional, sign up at-->
-                        <!-- https://startbootstrap.com/solution/contact-forms-->
-                        <!-- to get an API token!-->
-                        <form class="form-signup" id="contactForm" data-sb-form-api-token="API_TOKEN">
-                            <!-- Email address input-->
-                            <div class="row input-group-newsletter">
-                                <div class="col"><input class="form-control" id="emailAddress" type="email" placeholder="Enter email address..." aria-label="Enter email address..." data-sb-validations="required,email" /></div>
-                                <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="submit">Notify Me!</button></div>
-                            </div>
-                            <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:required">An email is required.</div>
-                            <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:email">Email is not valid.</div>
-                            <!-- Submit success message-->
-                            <!---->
-                            <!-- This is what your users will see when the form-->
-                            <!-- has successfully submitted-->
-                            <div class="d-none" id="submitSuccessMessage">
-                                <div class="text-center mb-3 mt-2 text-white">
-                                    <div class="fw-bolder">Form submission successful!</div>
-                                    To activate this form, sign up at
-                                    <br />
-                                    <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                                </div>
-                            </div>
-                            <!-- Submit error message-->
-                            <!---->
-                            <!-- This is what your users will see when there is-->
-                            <!-- an error submitting the form-->
-                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3 mt-2">Error sending message!</div></div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <!-- Contact-->
         <section class="contact-section bg-black">
             <div class="container px-4 px-lg-5">
